@@ -90,6 +90,7 @@ export default function Footer() {
       <div className="border-t border-[#1e293b] py-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-[#94a3b8]">
           <p>© {new Date().getFullYear()} MediCare Plus. All rights reserved. License No: MED-NY-2009-4521</p>
+          <p>Designed &amp; Developed by <a href="https://www.infirexa.tech" target="_blank" rel="noopener noreferrer">Infirexa</a></p>
           <p>Advanced Healthcare &amp; Diagnostics</p>
         </div>
       </div>
